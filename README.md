@@ -27,6 +27,8 @@ sha256.gethash(); //sha-256 of entire data
 
 ## Benchmarks
 
+![alt text](https://github.com/henrhie/react-native-sha/img/matter/SHA-1.png?raw=true)
+
 ## Installation
 
 Installing react-native-sha with npm
