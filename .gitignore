@@ -37,6 +37,12 @@ project.xcworkspace
 .idea
 .project
 .settings
+daemon/
+caches/
+native/
+wrapper/
+jdks/
+.tmp
 local.properties
 android.iml
 
