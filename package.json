@@ -1,11 +1,10 @@
 {
   "name": "react-native-sha",
   "version": "0.1.5",
-  "description": "blazing fast sha hashing library with direct c++ bindings",
+  "description": "blazing fast SHA hashing library with direct c++ bindings",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
-  "react-native": "src/index",
   "source": "src/index",
   "files": [
     "android/src",
