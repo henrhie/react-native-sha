@@ -72,7 +72,6 @@ public class MainApplication extends Application implements ReactApplication {
 
         // Add this method to your MainApplication
 
-        @Nullable
         @Override
         protected JSIModulePackage getJSIModulePackage() {
           return new ShaJsiPackage();
