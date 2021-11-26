@@ -1,6 +1,6 @@
 {
   "name": "react-native-sha",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "blazing fast SHA hashing library with direct c++ bindings",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
