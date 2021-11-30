@@ -50,7 +50,7 @@ Installing react-native-sha with npm
 
 JSI is still in an experimental stage and hence a little workaround
 is required to link the library to your project. The facebook team is working
-on a feature, Turbo modules which will autolink your JSI modules.
+on a feature, Turbo modules which will autolink your JSI modules in the future.
 
 ```java
 import com.facebook.react.bridge.JSIModulePackage;
