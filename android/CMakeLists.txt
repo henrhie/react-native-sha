@@ -6,7 +6,7 @@ set (CMAKE_CXX_STANDARD 11)
 
 add_library(cpp
             SHARED
-            ../node_modules/react-native/ReactCommon/jsi/jsi/jsi.cpp
+            ../../react-native/ReactCommon/jsi/jsi/jsi.cpp
             ../cpp/sha/sha1.cpp
             ../cpp/sha/sha256.cpp
             ../cpp/sha/sha3.cpp
@@ -21,9 +21,9 @@ add_library(cpp
 # Specifies a path to native header files.
 include_directories(
             ../cpp
-            ../node_modules/react-native/React
-            ../node_modules/react-native/React/Base
-            ../node_modules/react-native/ReactCommon/jsi
+            ../../react-native/React
+            ../../react-native/React/Base
+            ../../react-native/ReactCommon/jsi
 )
 
 target_link_libraries(cpp android log)
